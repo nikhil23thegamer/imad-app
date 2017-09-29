@@ -1,2 +1,2 @@
 console.log('Loaded!');
-alert("Hi,I am Javascript");
+alert("Hi, I am Javascript");
